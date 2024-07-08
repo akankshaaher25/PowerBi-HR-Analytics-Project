@@ -1,5 +1,10 @@
 # HR Analytics Dashboard Using Power BI
 
+
+## DEMO
+![image](https://github.com/akankshaaher25/PowerBi-HR-Analytics-Project/assets/162775234/7c3f4878-84cd-4549-99e7-90bb652c566b)
+
+
 ## Project Description
 The HR Analytics Dashboard project aims to develop an interactive Power BI dashboard for HR departments to enhance data-driven decision-making. The dashboard will provide insights into key HR metrics, including employee demographics, performance, attrition, recruitment, and training, helping HR teams identify trends, improve workforce management, and strategize effectively.
 
